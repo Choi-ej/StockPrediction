@@ -1,6 +1,6 @@
 # StockPrediction
 
-2022.03~04      
+2022.03~04 (3 members)      
 What I worked 
 - Visualization : Time Series Clustering 시계열 클러스터링
 - Predict Model : Arima 
